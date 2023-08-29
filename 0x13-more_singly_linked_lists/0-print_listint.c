@@ -1,4 +1,4 @@
-#include <stdio.h>  // Include this line to fix the implicit declaration error
+#include <stdio.h>  /* Include this line to fix the implicit declaration error */
 #include "lists.h"
 
 /**
